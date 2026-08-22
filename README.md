@@ -1,3 +1,9 @@
+> **Fork notice.** This is a copy of
+> [`modelcontextprotocol/servers`](https://github.com/modelcontextprotocol/servers),
+> the official MCP reference implementations. It is not an original work and is
+> not affiliated with the Model Context Protocol project. For the maintained
+> version, use upstream.
+
 # Model Context Protocol servers
 
 This repository is a collection of *reference implementations* for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP), as well as references
